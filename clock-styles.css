@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+
+#my-clock {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    color: black;
+    font-family: 'Bevan', cursive;
+    font-family: 'Orbitron', sans-serif;
+    
+}
+
+.clock {
+    color: black;
+    font-family: 'Bevan', cursive;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50pt;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    color: #ffffff;
+    border: 10px solid black;
+    border-radius: 25px;
+}
+    
