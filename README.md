@@ -1,4 +1,4 @@
-##My First Digital Clock##
+My First Digital Clock
 
 [Click to see time in est](https://first-clock.web.app)
 
