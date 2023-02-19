@@ -4,6 +4,6 @@ My First Digital Clock
 
 
 
-Basic Digital Clock with est time zone
+Basic Digital Clock (est time zone)
 
 ![Digital Clock](./images/Screen%20Shot%202022-06-27%20at%205.46.04%20PM.png)
